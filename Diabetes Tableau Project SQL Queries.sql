@@ -1,3 +1,6 @@
+--Queries used for Tableau Project
+
+
 --starting point for our query
 
 SELECT *
